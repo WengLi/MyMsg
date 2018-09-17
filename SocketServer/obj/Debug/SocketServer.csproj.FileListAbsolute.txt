@@ -1,0 +1,10 @@
+D:\Project\MyMsg\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Project\MyMsg\SocketServer\bin\Debug\SocketServer.exe
+D:\Project\MyMsg\SocketServer\bin\Debug\SocketServer.pdb
+D:\Project\MyMsg\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+D:\Project\MyMsg\SocketServer\obj\Debug\SocketServer.Form1.resources
+D:\Project\MyMsg\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\Project\MyMsg\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+D:\Project\MyMsg\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\Project\MyMsg\SocketServer\obj\Debug\SocketServer.exe
+D:\Project\MyMsg\SocketServer\obj\Debug\SocketServer.pdb

@@ -1,0 +1,10 @@
+D:\Project\MyMsg\MyMsg\bin\Debug\MyMsg.exe.config
+D:\Project\MyMsg\MyMsg\bin\Debug\MyMsg.exe
+D:\Project\MyMsg\MyMsg\bin\Debug\MyMsg.pdb
+D:\Project\MyMsg\MyMsg\obj\Debug\MyMsg.Properties.Resources.resources
+D:\Project\MyMsg\MyMsg\obj\Debug\MyMsg.csproj.GenerateResource.cache
+D:\Project\MyMsg\MyMsg\obj\Debug\MyMsg.csproj.CoreCompileInputs.cache
+D:\Project\MyMsg\MyMsg\obj\Debug\MyMsg.exe
+D:\Project\MyMsg\MyMsg\obj\Debug\MyMsg.pdb
+D:\Project\MyMsg\MyMsg\obj\Debug\MyMsg.Form1.resources
+D:\Project\MyMsg\MyMsg\obj\Debug\MyMsg.csprojAssemblyReference.cache
